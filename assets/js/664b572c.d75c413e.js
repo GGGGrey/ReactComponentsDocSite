@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7420],{25871:e=>{e.exports=JSON.parse('{"tags":[{"label":"ReactComponentsDocSite","permalink":"/ReactComponentsDocSite/blog/tags/react-components-doc-site","count":1}]}')}}]);
